@@ -1,0 +1,20 @@
+{
+  "chainId": 101,
+  "address": "SLdUBNLU8fxEAviu3MHW7i3Fe7ozRWfcSfpJ6zZ668M",
+  "symbol": "SLD",
+  "name": "Solidus",
+  "decimals": 9,
+  "logoURI": "https://ipfs.io/ipfs/bafybeifuvklukjv7p7azklzpt2ubhgef2fl5kxe6nvakc7lhhn4shzanb4",
+  "tags": [
+    "community",
+    "utility",
+    "metaverse",
+    "gaming"
+  ],
+  "extensions": {
+    "twitter": "https://twitter.com/solidusofficial",
+    "instagram": "https://instagram.com/solidusofficial",
+    "telegram": "https://t.me/solidusofficiall",
+    "description": "Solidus (SLD) is a Solana-based community token designed to create income opportunities for everyone through gaming, tasks, and ad-supported platforms."
+  }
+}
